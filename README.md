@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hunzptk
-- 👀 I’m interested in JavaScript, ReactJS, Next.JS
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in C# .Net
+- 🌱 I’m currently learning C# .Net
 - 📫 How to reach me victor_heshiki@hotmail.com
 
 <!---
