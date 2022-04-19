@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hunzptk
-- 👀 I’m interested in C# .Net
-- 🌱 I’m currently learning C# .Net
+- 👀 I’m interested in Node Js
+- 🌱 I’m currently learning Node Js
 - 📫 How to reach me victor_heshiki@hotmail.com
 
 <!---
